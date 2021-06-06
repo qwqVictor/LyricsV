@@ -13,6 +13,8 @@ Now I have only implemented the Karaoke lyrics mode and very basic i18n support.
 
 ## About
 
-LyricsV-core is licensed under the [Apache License 2.0](LICENSE).
+LyricsV is licensed under the [Apache License 2.0](LICENSE).
 
-**Code with ♥ by Victor Huang \<i@qwq.ren\>
+For the core component, visit [LyricsV-core](https://github.com/qwqVictor/LyricsV-core).
+
+**Code with ♥ by Victor Huang \<i@qwq.ren\>**
